@@ -1,18 +1,20 @@
 # Deep Neural Network for Malaria Infected Cell Recognition
 
-## AIM
+## AIM:
 
 To develop a deep neural network for Malaria infected cell recognition and to analyze the performance.
 
-## Problem Statement and Dataset
+## Problem Statement and Dataset:
 
-## Neural Network Model
+## Neural Network Model:
 
-Include the neural network model diagram.
+![img](https://user-images.githubusercontent.com/75235554/193419240-1265905f-3d94-402f-a61d-ff0d6a6174d1.png)
 
-## DESIGN STEPS
+## DESIGN STEPS:
 
 ### STEP 1:
+
+Import tensorflow and preprocessing libraries
 
 ### STEP 2:
 
@@ -20,7 +22,8 @@ Include the neural network model diagram.
 
 Write your own steps
 
-## PROGRAM
+## PROGRAM:
+
 ```python
 # Developed By : Harshini M
 # Register Number : 212220230022
@@ -134,7 +137,7 @@ else:
 
 ```
 
-## OUTPUT
+## OUTPUT:
 
 ### Training Loss, Validation Loss Vs Iteration Plot
 
@@ -150,4 +153,6 @@ else:
 
 <img width="448" alt="image" src="https://user-images.githubusercontent.com/75235554/193395842-b71468e7-c07d-4fe4-a442-4a59c6140b93.png">
 
-## RESULT
+## RESULT:
+
+Thus, a deep neural network for Malaria infected cell recognized and analyzed the performance .
