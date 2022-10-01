@@ -6,6 +6,9 @@ To develop a deep neural network for Malaria infected cell recognition and to an
 
 ## Problem Statement and Dataset:
 
+Using data augmentation in the Convolutional Neural Network approach decreases the chances of overfitting. Thus, Malaria detection systems using deep learning proved to be faster than most of the traditional techniques. A Convolutional Neural Network was developed and trained to classify between the parasitized and uninfected smear blood cell images. The classical image features are extracted by CNN which can extract theimage features in three different categories – low-level, mid-level, 
+and high-level features. 
+
 ## Neural Network Model:
 
 ![img](https://user-images.githubusercontent.com/75235554/193419240-1265905f-3d94-402f-a61d-ff0d6a6174d1.png)
@@ -18,9 +21,31 @@ Import tensorflow and preprocessing libraries
 
 ### STEP 2:
 
+Read the dataset
+
 ### STEP 3:
 
-Write your own steps
+Create an ImageDataGenerator to flow image data
+
+### STEP 4:
+
+Build the convolutional neural network model and train the model
+
+### STEP 5:
+
+Fit the model
+
+### STEP 6:
+
+Evaluate the model with the testing data
+
+### STEP 7:
+
+Fit the model
+
+### STEP 8:
+
+Plot the performance plot
 
 ## PROGRAM:
 
