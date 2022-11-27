@@ -11,7 +11,7 @@ and high-level features.
 
 ## Neural Network Model:
 
-![img](https://user-images.githubusercontent.com/75235554/193419240-1265905f-3d94-402f-a61d-ff0d6a6174d1.png)
+![image](https://user-images.githubusercontent.com/75235554/204125865-24c49d9b-6e4b-4997-87b9-fb45321c5f70.png)
 
 ## DESIGN STEPS:
 
